@@ -1,0 +1,6 @@
+{
+  "name": "MOTOCAR24 - Sklep z częściami i akcesoriami motoryzacyjnymi",
+  "description": "Profesjonalny sklep z częściami samochodowymi, oponami, felgami i akcesoriami motoryzacyjnymi. Wyszukiwarka po numerach OE, pojeździe, parametrach opon oraz integracja Base.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
